@@ -1,4 +1,4 @@
-# SpectrumJeevan
+# Spectrum : Jeevan
 
 ## WINDOWS
 
